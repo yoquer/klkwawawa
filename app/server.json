@@ -1,0 +1,29 @@
+{
+  "tickets":{
+      "server": "1084686651898478612" ,
+      "nombre": "Ticket",
+      "category": "1084693420188127232",
+      "review": "1084689252006240296",
+      "transcripts":"1086160369233444875",
+      "staff": [ "1084695527544856688" ]
+  },
+  "embed":{
+      "ticket":{
+          "title": "", 
+          "description": "Un staff te responderé en breve/A staff will answer you shortly ."
+      },
+      "panel":{
+          "title": "Yoquer_SHOP",
+          "description": "If you need any assistance click on the button corresponding to the type of ticket you wish to open. Si necesita ayuda, haga clic en el botón correspondiente al tipo de boleto que desea abrir",
+          "color": "green"
+      }
+  },
+  "quest":{
+      "title": "Gracias por comprar con Yoquer_Shop",
+      "quests": [
+          {
+              "title":"Como fue tu experiencia con los staff"
+          }
+      ]
+  }
+}

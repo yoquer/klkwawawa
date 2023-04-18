@@ -1,0 +1,11 @@
+# Configuración del Bot #
+# ----------------------- #
+
+token: 'MTA5NzI0ODQyNDA2MTA1NTA4Ng.GA0TES.HPzAhNguKrZJDlp63TLcjf0HRecAsA9gUGwnQs' # Token del bot
+
+# Estado del bot
+bot_activity:
+
+  status: "Trabajando en Yoquer_Shop" # Estado del bot [idle - online - invisible - dnd]
+  name: "Yoquer_Shop" # Nombre de la actividad del bot
+  game: "Yoquer_Shop" # Tipo de actividad del bot [Playing - Streaming - Watching]

@@ -1,0 +1,38 @@
+# Archivo de Configuracion del servidor #
+# ------------------------------------ #
+
+# Tickets #
+# -------- #
+
+tickets:
+  server: '' # ID del servidor
+  nombre: '' # Nombre del ticket. Se puede usar formato con placeholders [ %user_tag%, %user_id%, %username% ]
+             # Ejemplo: 'ticket-%user_id%' sería igual a 'ticket-1234234233'
+  category: '' # ID de la categoría de los tickets
+  transcripts: '' # ID del canal de transcripciones
+  review: '' #ID del canal de la reseñas
+  staff: # IDs de los roles de staff para acceder a los tickets
+  - ""  
+    # Ejemplo de cómo guardar los datos
+    # staff: 
+    # - id y así sucesivamente
+
+# Embeds #
+# ------- #
+
+embed:
+  ticket:
+    title: "" # Título del embed del ticket
+    description: "" # Descripción del embed del ticket
+  panel:
+    title: "" # Título del embed del panel
+    description: "" # Descripción del embed del panel
+    color: '' # Color del embed del panel
+
+
+  # Quests #
+  # ------ #
+  quest:
+    title: "" # Título del custionario
+     quests: # son como maximo 3 preguntas
+     - title: "" # Título del quest

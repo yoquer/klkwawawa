@@ -1,0 +1,29 @@
+{
+    "tickets":{
+        "server": "10846898478612" ,
+        "nombre": "Tiet",
+        "category": "Tet",
+        "review": "10846892520296",
+        "transcripts":"10863444875",
+        "staff": [1084695527544856688]
+    },
+    "embed":{
+        "ticket":{
+            "title": "test",
+            "description": "."
+        },
+        "panel":{
+            "title": "Yoquer_SHOP",
+            "description": "",
+            "color": ""
+        }
+    },
+    "quest":{
+        "title": "",
+        "quests": [
+            {
+                "title":""
+            }
+        ]
+    }
+}
